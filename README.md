@@ -2,10 +2,10 @@
  A basic page to give hands on expirience on git-GitHub.
 
  ## The letters listed here is jumbled and is written backwards. Correct it and send Pull requests!!!
- The funfamentals first
- +uoy’ll deen ot evah a wef sgniht dellatsni dna elbaliava.
+ The fundamentals first
+ you’ll need to have a few things installed and available.
  For starters, I’ll assume you already have Git installed. 
- Fi uoy nod’t, barg a ypoc fo eht tsetal noisrev rof ruoy gnitarepo metsys. 
+ If you don’t, grab a copy of the latest version for your operating system. 
  Fi uoy’er no Xunil, uoy nac llatsni ti aiv ruoy egakcap reganam daetsni.
  Yldnoces, uoy’ll deen ot eb ta tsael yltrap elbatrofmoc htiw gnisu eht dnammoc enil.
  Now not everyone is, so if uoy’er not, nod’t worry. this will all be etiuq straightforward.
