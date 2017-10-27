@@ -1,7 +1,7 @@
 # Pull-Request-and-Hacktoberfest
  A basic page to give hands on expirience on git-GitHub.
 
- ## The letters listed here is jumbled and is written backwards. Correct it and send Pull requests!!!
+ ## The letters listed here are written backwards. Correct it and send Pull requests!!!
  The funfamentals first
  +uoy’ll deen ot evah a wef sgniht dellatsni dna elbaliava.
  For starters, I’ll assume you already have Git installed. 
